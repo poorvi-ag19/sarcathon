@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/sarcathon/static/css/main.422d61aa.css",
-    "main.js": "/sarcathon/static/js/main.92f52c95.js",
-    "static/js/453.debfd1ce.chunk.js": "/sarcathon/static/js/453.debfd1ce.chunk.js",
-    "index.html": "/sarcathon/index.html",
-    "main.422d61aa.css.map": "/sarcathon/static/css/main.422d61aa.css.map",
-    "main.92f52c95.js.map": "/sarcathon/static/js/main.92f52c95.js.map",
-    "453.debfd1ce.chunk.js.map": "/sarcathon/static/js/453.debfd1ce.chunk.js.map"
+    "main.css": "/saras/static/css/main.422d61aa.css",
+    "main.js": "/saras/static/js/main.8ef0ddea.js",
+    "static/js/453.debfd1ce.chunk.js": "/saras/static/js/453.debfd1ce.chunk.js",
+    "index.html": "/saras/index.html",
+    "main.422d61aa.css.map": "/saras/static/css/main.422d61aa.css.map",
+    "main.8ef0ddea.js.map": "/saras/static/js/main.8ef0ddea.js.map",
+    "453.debfd1ce.chunk.js.map": "/saras/static/js/453.debfd1ce.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.422d61aa.css",
-    "static/js/main.92f52c95.js"
+    "static/js/main.8ef0ddea.js"
   ]
 }
